@@ -1,5 +1,5 @@
-#Work Sample Navigation A*
-This project is taken as part of a bigger project and meant to show an example of my work.
+## Work Sample Navigation A*
+This project is taken as part of a bigger project and is meant to show an example of my work.
 
 The solution file (.sln) can be opened with Visual Studio. While there is no graphical interface include, there are tests which show the basic functionality.
 
